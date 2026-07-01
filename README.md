@@ -3,8 +3,7 @@
 
 **Zero-Trust AI Firewall for Enterprise AI Agents**
 
-Security.AI protects LLM applications from prompt injection, jailbreaks, credential theft, data exfiltration, and malicious prompts using a hybrid rule-based + AI detection pipeline powered by **Groq (Llama 3.3 70B)**.
-
+Security.AI protects LLM applications from prompt injection, jailbreaks, credential theft, data exfiltration, and malicious prompts using a hybrid rule-based + AI detection 
 ---
 
 ##  Features
